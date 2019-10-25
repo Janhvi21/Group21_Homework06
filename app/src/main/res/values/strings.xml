@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Group#21_Homework06</string>
+    <string name="avatar">My Avatar</string>
+    <string name="firstNAme">First Name</string>
+    <string name="lastNAme">Last Name</string>
+    <string name="studentID">Student ID</string>
+    <string name="department">Department :</string>
+    <string name="cs">CS</string>
+    <string name="SIS">SIS</string>
+    <string name="BIO">BIO</string>
+    <string name="other">Other</string>
+    <string name="save" />
+    <string name="Save">Save</string>
+</resources>
