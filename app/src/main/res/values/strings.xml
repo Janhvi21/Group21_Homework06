@@ -11,4 +11,11 @@
     <string name="other">Other</string>
     <string name="save" />
     <string name="Save">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name :</string>
+    <string name="studentId">Student ID :</string>
+    <string name="depart">Department :</string>
+    <string name="edit">Edit</string>
 </resources>
